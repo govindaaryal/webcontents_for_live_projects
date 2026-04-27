@@ -5,6 +5,13 @@
     "link": "",
     "status": "active",
     "placement": 1
+  },
+  {
+    "sn": 2,
+    "banner_image": "https://raw.githubusercontent.com/govindaaryal/webcontents_for_live_projects/refs/heads/main/nepalipujari/banner/ban2.jpg",
+    "link": "",
+    "status": "active",
+    "placement": 2
   }
   
 ]
